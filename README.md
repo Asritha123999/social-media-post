@@ -1,1 +1,1 @@
-# social-media-post
+The **Social Media Post Designer** is a simple web application that allows users to create attractive social media posts by adding a title, description, image, and background color. It provides a live preview of the designed post, helping users understand the basics of layout design, typography, color selection, and visual storytelling. This project is built using **HTML, CSS, and JavaScript**, making it easy for beginners to learn web design and user interface development
