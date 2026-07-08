@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Social Media Post Designer</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="container">
+
+    <h1>Social Media Post Designer</h1>
+
+    <input type="text" id="title" placeholder="Post Title">
+
+    <textarea id="content" placeholder="Write something..."></textarea>
+
+    <input type="color" id="bgcolor">
+
+    <input type="file" id="image">
+
+    <button onclick="createPost()">Create Post</button>
+
+</div>
+
+<div id="post">
+
+    <img id="preview">
+
+    <h2 id="postTitle"></h2>
+
+    <p id="postContent"></p>
+
+</div>
+
+<script src="script.js"></script>
+
+</body>
+</html>

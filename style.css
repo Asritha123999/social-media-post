@@ -1,0 +1,39 @@
+body{
+    font-family:Arial;
+    background:#f0f2f5;
+    text-align:center;
+}
+
+.container{
+    width:400px;
+    margin:auto;
+    padding:20px;
+}
+
+input,textarea{
+    width:100%;
+    margin:10px 0;
+    padding:10px;
+}
+
+button{
+    padding:10px 20px;
+    background:#1877f2;
+    color:white;
+    border:none;
+    cursor:pointer;
+}
+
+#post{
+    width:400px;
+    margin:30px auto;
+    padding:20px;
+    background:white;
+    border-radius:10px;
+    box-shadow:0 0 10px gray;
+}
+
+#preview{
+    width:100%;
+    border-radius:10px;
+}
